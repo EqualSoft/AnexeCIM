@@ -83,7 +83,7 @@ namespace word
 
             myWordDoc.Close();
             wordApp.Quit();
-            MessageBox.Show("File Created!");
+            MessageBox.Show("File Created ok!");
         }
 
         private void button1_Click(object sender, EventArgs e)
